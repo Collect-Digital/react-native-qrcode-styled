@@ -1,6 +1,6 @@
 {
   "name": "collect-fork-react-native-qrcode-styled",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "A fully customizable QR Code generator for React Native based on react-native-svg and javascript-qrcode.",
   "main": "lib/commonjs/index.js",
   "types": "lib/typescript/module/src/index.d.ts",
