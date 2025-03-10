@@ -3,6 +3,7 @@
   "version": "0.3.3",
   "description": "A fully customizable QR Code generator for React Native based on react-native-svg and javascript-qrcode.",
   "main": "lib/commonjs/index.js",
+  "types": "lib/typescript/module/src/index.d.ts",
   "module": "lib/module/index.js",
   "react-native": "src/index.tsx",
   "source": "src/index",
