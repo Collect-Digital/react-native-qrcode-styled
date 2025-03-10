@@ -4030,6 +4030,39 @@ __metadata:
   languageName: node
   linkType: hard
 
+"collect-fork-react-native-qrcode-styled@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "collect-fork-react-native-qrcode-styled@workspace:."
+  dependencies:
+    "@commitlint/config-conventional": ^19.5.0
+    "@evilmartians/lefthook": ^1.5.0
+    "@react-native/eslint-config": 0.76.3
+    "@release-it/conventional-changelog": ^9.0.2
+    "@types/jest": ^29.5.5
+    "@types/qrcode": ^1.5.5
+    "@types/react": ^18.2.44
+    commitlint: ^19.5.0
+    del-cli: ^5.1.0
+    eslint: ^8.51.0
+    eslint-config-prettier: ^9.0.0
+    eslint-plugin-prettier: ^5.0.1
+    jest: ^29.7.0
+    prettier: ^3.0.3
+    qrcode: ^1.5.4
+    react: 18.3.1
+    react-fast-compare: ^3.2.2
+    react-native: 0.76.3
+    react-native-builder-bob: ^0.33.3
+    react-native-svg: 15.9.0
+    release-it: ^17.10.0
+    typescript: ^5.2.2
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+    react-native-svg: "*"
+  languageName: unknown
+  linkType: soft
+
 "collect-v8-coverage@npm:^1.0.0":
   version: 1.0.2
   resolution: "collect-v8-coverage@npm:1.0.2"
@@ -9863,39 +9896,6 @@ __metadata:
   checksum: 1f14b539804d39816ed5f8e171ad52e1bb3cf1828aebf3cd2671593997764a2e486cb421673394244bf8faaf09ff432f08a87bad2b4adcf293aaa7be0d8dc7e4
   languageName: node
   linkType: hard
-
-"react-native-qrcode-styled@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-native-qrcode-styled@workspace:."
-  dependencies:
-    "@commitlint/config-conventional": ^19.5.0
-    "@evilmartians/lefthook": ^1.5.0
-    "@react-native/eslint-config": 0.76.3
-    "@release-it/conventional-changelog": ^9.0.2
-    "@types/jest": ^29.5.5
-    "@types/qrcode": ^1.5.5
-    "@types/react": ^18.2.44
-    commitlint: ^19.5.0
-    del-cli: ^5.1.0
-    eslint: ^8.51.0
-    eslint-config-prettier: ^9.0.0
-    eslint-plugin-prettier: ^5.0.1
-    jest: ^29.7.0
-    prettier: ^3.0.3
-    qrcode: ^1.5.4
-    react: 18.3.1
-    react-fast-compare: ^3.2.2
-    react-native: 0.76.3
-    react-native-builder-bob: ^0.33.3
-    react-native-svg: 15.9.0
-    release-it: ^17.10.0
-    typescript: ^5.2.2
-  peerDependencies:
-    react: "*"
-    react-native: "*"
-    react-native-svg: "*"
-  languageName: unknown
-  linkType: soft
 
 "react-native-svg@npm:15.9.0":
   version: 15.9.0
